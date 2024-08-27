@@ -12,7 +12,7 @@ def json_to_csv(json_file, csv_file):
         
         # Write the header
         writer.writerow(['db_id', 'question', 'evidence', 'SQL'])
-        
+
         # Write the data
         for item in data:
             writer.writerow([
