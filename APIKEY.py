@@ -1,2 +1,1 @@
-APIKEY = ''
-#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
+APIKEY = '<Please ping me for the API. Or feel free to enter your API>'
